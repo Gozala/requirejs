@@ -1,0 +1,22 @@
+{ "name": "requirejs"
+, "version": "0.22.0"
+, "description": "JavaScript file and module loader."
+, "homepage": "http://requirejs.org/"
+, "keywords": ["module", "loader"]
+, "contributors":
+  [ "James Burke (http://tagneto.blogspot.com)" ]
+, "repository":
+  { "type": "git"
+  , "url": "git://github.com/jrburke/requirejs.git"
+  }
+, "bugs": { "web": "https://github.com/jrburke/requirejs/issues" }
+, "main": "./require.js"
+, "engines":
+  { "teleport": ">=0.5.0"
+  }
+, "licenses":
+  [ { "type": "The New BSD License / MIT License"
+    , "url": "https://github.com/jrburke/requirejs/blob/master/LICENSE"
+    }
+  ]
+}
